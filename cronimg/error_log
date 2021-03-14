@@ -1,0 +1,112 @@
+[03-Mar-2021 21:19:22 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:20:06 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:20:06 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:21:01 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:21:16 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:21:41 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:22:07 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:22:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[03-Mar-2021 21:22:51 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/autotuon2/public_html/cronimg/index.php on line 58
+[06-Mar-2021 13:09:31 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:09:31 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:09:35 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:09:35 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:24 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:24 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:25 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:25 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:26 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:26 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:36 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:36 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:38 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:38 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:38 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:38 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:39 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:10:39 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:11:01 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:11:01 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:11:02 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:11:02 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:11:02 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:11:02 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 5
+[06-Mar-2021 13:11:39 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 6
+[06-Mar-2021 13:11:39 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 6
+[06-Mar-2021 13:11:40 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 6
+[06-Mar-2021 13:11:40 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 6
+[06-Mar-2021 13:12:05 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/HelperImage.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/cronimg/index.php on line 6
+[06-Mar-2021 13:12:05 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/HelperImage.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/cronimg/index.php on line 6
+[06-Mar-2021 13:12:40 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/cronimg/support/config.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 3
+[06-Mar-2021 13:12:40 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/cronimg/support/config.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/support/HelperImage.php on line 3
+[06-Mar-2021 13:13:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:13:05 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/home/autotuon2/public_html/cronimg/support/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:13:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index:  in /home/autotuon2/public_html/support/HelperImage.php on line 25
+[06-Mar-2021 13:13:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:13:20 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:13:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index:  in /home/autotuon2/public_html/support/HelperImage.php on line 25
+[06-Mar-2021 13:13:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:14:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:14:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:14:51 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:14:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index:  in /home/autotuon2/public_html/support/HelperImage.php on line 25
+[06-Mar-2021 13:15:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:15:38 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:15:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index:  in /home/autotuon2/public_html/support/HelperImage.php on line 25
+[06-Mar-2021 13:16:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:16:02 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:16:02 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:16:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:16:42 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(./effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:16:42 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(./effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:16:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:16:44 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(./effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:16:44 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(./effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:17:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:17:10 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:17:10 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:17:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:17:12 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:17:12 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:17:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:17:12 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:17:12 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:17:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:17:13 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:17:13 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:20:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:20:39 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 15
+[06-Mar-2021 13:20:39 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(/effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:21:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:21:23 Asia/Ho_Chi_Minh] PHP Warning:  fopen(effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:21:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: myFile in /home/autotuon2/public_html/support/HelperImage.php on line 18
+[06-Mar-2021 13:21:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:21:25 Asia/Ho_Chi_Minh] PHP Warning:  fopen(effect.txt): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 16
+[06-Mar-2021 13:21:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: myFile in /home/autotuon2/public_html/support/HelperImage.php on line 18
+[06-Mar-2021 13:23:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8
+[06-Mar-2021 13:23:22 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(132|Tay cầm ảnh với hiệu ứng 2 lớp|image
+134|Mặt dây chuyền trái tim|image
+135|Viên đá trong suốt 2 lớp|image
+136|Viên ngọc trong tay quỷ|image
+142|Mảnh vỡ trái tim 2 lớp|image
+143|Tay cầm trái tim|image
+144|Trái tim bị buộc dây|image
+149|Dây móc treo trái tim|image
+151|Trái tim trong bàn tay|image
+152|Trái tim trong lòng bàn tay|image
+153|Tay ôm hình trái tim|image
+155|Hiệu ứng trái tim 3d|image
+156|Vòng cổ trái tim trong suốt|image
+158|Mặt dây chuyền đá quý|image
+160|Chiếc nhẫn trái tim tình yêu|image
+161|Hiệu ứng CD 2 lớp|image
+162|Hiệu ứng đĩa nhạc CD|image
+163|Hiệu ứng khung ảnh camera|image
+164|Hiệu ứng text kim cương|text
+166|Hiệu ứng ảnh mảnh ghép|image
+168|Hiệu ứng text quý tộc|text
+175|Hiệu ứng text dưới nước|text
+179|Text trên cửa xếp|text
+180|Text trên áo hot girl|text
+181|Text trên  in /home/autotuon2/public_html/support/HelperImage.php on line 381
+[06-Mar-2021 13:23:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: text in /home/autotuon2/public_html/cronimg/index.php on line 8

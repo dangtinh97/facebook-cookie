@@ -1,0 +1,13 @@
+RewriteEngine on
+#Trang chủ hệ thống
+RewriteRule ^trang-chu$ index.php
+RewriteRule ^dang-nhap-he-thong$ index.php?Login=dang-nhap-he-thong
+#Dang xuat
+RewriteRule ^dang-xuat$ log/dang-xuat.php
+RewriteRule ^quan-li$ index.php?Admin=quan-li
+RewriteRule ^thong-tin-tai-khoan$ index.php?Home=thong-tin-tai-khoan
+#support
+RewriteRule ^support/trang-chu$ support/index.php
+RewriteRule ^support/dang-nhap$ support/login.php
+RewriteRule ^support/cron-group$ support/Controller/Api/CronGroupController.php
+

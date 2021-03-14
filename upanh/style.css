@@ -1,0 +1,84 @@
+body {
+	font-size: 14px;
+	font-family: Arial, Verdana;
+	background: #d7eaf9;
+	line-height:150%;
+	color: #000000;
+	text-align: center;
+	cursor: url("chuot.cur"), auto;
+}
+a {
+	text-decoration:none;
+	color:#027EC6;
+}
+a:hover {
+	text-decoration:none;
+	color: #0000ff;
+}
+::selection {
+	background: #5fd9ff; /* Safari */
+        color:white;
+	}
+.anh:hover{
+width: 200px;
+}
+.anh{
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+width:100px;
+}
+
+
+/* Code Table */
+.table{
+padding-left: 8px;
+}
+#table{
+border:1px solid #000;
+}
+table{
+display: table;
+border-collapse: separate;
+border-spacing: 2px;
+}
+td{
+	padding-left:5px;
+	font-size:12px;
+}
+/*Input*/
+.submit {
+color: black;
+font: 12px arial;
+border: 1px solid #0000ff;
+padding-left: 4px;
+padding-right: 4px;
+padding-bottom: 2px;
+padding-top: 2px;
+margin-left:5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background: white;
+}
+.submit:hover {
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+color: white;
+border-color: #0000FF;
+outline: 0;
+padding-left: 4px;
+padding-right: 4px;
+padding-bottom: 2px;
+padding-top: 2px;
+-moz-box-shadow: 0 0 5px #0000ff;
+-webkit-box-shadow: 0 0 5px #0000ff;
+box-shadow: 0 0 5px #0000ff;
+background: #0091FF;
+}
+input:hover{
+border: #1391E6 1px solid;
+box-shadow: 0px 0.7px 5px #1391E6;
+padding-left: 2px;
+padding-top: 2px;
+}
