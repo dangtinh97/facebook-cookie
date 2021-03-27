@@ -14,10 +14,10 @@
                     );
                     die(json_encode($JSON, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
                 }
-                $SQL = mysqli_fetch_assoc(mysqli_query($kunloc,"SELECT mode FROM botlike WHERE id = '$i' AND username= '$username'"));
-                if($SQL['mode'] == 'bat'){ 
+                $SQL = mysqli_fetch_assoc(mysqli_query($kunloc,"SELECT trangthai FROM botlike WHERE id = '$i' AND username= '$username'"));
+                if($SQL['trangthai'] == 'bat'){ 
                     $trangthai = 'tat'; 
-                    $capnhat = mysqli_query($kunloc,"UPDATE botlike SET mode = '$trangthai' WHERE id = '$i' ");
+                    $capnhat = mysqli_query($kunloc,"UPDATE botlike SET trangthai = '$trangthai' WHERE id = '$i' ");
                     $JSON = array(
                         "title" => "Đã TẮT BOT thành công",
                         "text" => "Chờ reload...",
@@ -27,9 +27,9 @@
                     );
                     die(json_encode($JSON, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
                 }   
-                if($SQL['mode'] == 'tat'){ 
+                if($SQL['trangthai'] == 'tat'){ 
                     $trangthai = 'bat'; 
-                    $capnhat = mysqli_query($kunloc,"UPDATE botlike SET mode = '$trangthai' WHERE id = '$i' ");
+                    $capnhat = mysqli_query($kunloc,"UPDATE botlike SET trangthai = '$trangthai' WHERE id = '$i' ");
                     $JSON = array(
                         "title" => "Đã Bật BOT thành công",
                         "text" => "Chờ reload...",

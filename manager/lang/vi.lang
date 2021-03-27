@@ -1,0 +1,361 @@
+action_navigator_file_create_dialog = "Tạo mới"
+action_navigator_file_upload_dialog = "Tải lên"
+action_navigator_file_import_dialog = "Nhập khẩu"
+
+action_navigator_file_upload_toast = "Tải lên: "
+action_navigator_file_import_toast = "Nhập khẩu: "
+
+action_navigator_option_setting = "Cài đặt"
+action_navigator_option_info = "Thông tin"
+action_navigator_option_exit = "Thoát"
+
+action_directory_detail_dialog = "Thông tin"
+action_directory_edit_detail_dialog = "Sửa thông tin"
+action_directory_copy_dialog = "Sao chép"
+action_directory_delete_dialog = "Xóa"
+action_directory_zip_dialog = "Nén zip"
+
+action_file_detail_dialog = "Thông tin"
+action_file_download_dialog = "Tải xuống"
+action_file_edit_detail_dialog = "Sửa thông tin"
+action_file_edit_text_dialog = "Sửa văn bản"
+action_file_extract_dialog = "Giải nén"
+action_file_copy_dialog = "Sao chép"
+action_file_delete_dialog = "Xóa"
+
+action_list_file_copy = "Sao chép"
+action_list_file_chmod = "Phân quyền"
+action_list_file_archive = "Nén zip"
+action_list_file_delete = "Xóa"
+
+action_list_file_copy_path_to = "Đường dẫn sao chép đến"
+action_list_file_copy_delete = "Xóa thư mục"
+action_list_file_copy_select = "Lựa chọn"
+action_list_file_copy_input_path_to = "Nhập đường dẫn"
+action_list_file_copy_submit = "Sao chép"
+
+action_list_file_chmod_directory = "Phân quyền thư mục"
+action_list_file_chmod_file = "Phân quyền tập tin"
+action_list_file_input_chmod_directory = "Nhập phân quyền thư mục"
+action_list_file_input_chmod_file = "Nhập phân quyền tập tin"
+action_list_file_chmod_submit = "Phân quyền"
+
+action_list_file_zip_path_save = "Đường dẫn lưu tập tin"
+action_list_file_zip_filename = "Tên tập tin"
+action_list_file_zip_input_path_save = "Nhập đường dẫn lưư tập tin"
+action_list_file_zip_input_filename = "Nhập tên tập tin"
+action_list_file_zip_select = "Lựa chọn"
+action_list_file_zip_override_file = "Ghi đè tập tin nén"
+action_list_file_zip_delete_source = "Xóa nguồn"
+action_list_file_zip_submit = "Nén"
+
+action_list_file_delete_confirm = "Xác nhận"
+action_list_file_delete_message_begin = "Bạn có thực sự muốn xóa các mục đã chọn không?"
+action_list_file_delete_message_end = ""
+action_list_file_delete_submit = "Xóa"
+
+back_directory = "..."
+
+create_navigator_file_success = "Tạo thành công"
+create_directory_navigator_file_failed = "Tạo thư mục thất bại"
+create_file_navigator_file_failed = "Tạo tập tin thất bại"
+create_directory_navigator_file_success = "Tạo thư mục thành công"
+create_file_navigator_file_success = "Tạo tập tin thành công"
+
+copy_action_failed = "Sao chép thất bại"
+copy_action_success = "Sao chép thành công"
+
+copy_directory_failed = "Sao chép thư mục thất bại"
+copy_directory_success = "Sao chép thư mục thành công"
+copy_file_failed = "Sao chép tập tin thất bại"
+copy_file_success = "Sao chép tập tin thành công"
+
+chmod_directory_wrong = "Phân quyền thư mục sai"
+chmod_file_wrong = "Phân quyền tập tin sai"
+
+chmod_list_system = "Hệ thống"
+chmod_list_group = "Nhóm"
+chmod_list_user = "Người dùng"
+chmod_list_read = "Đọc"
+chmod_list_write = "Viết"
+chmod_list_execute = "Thực thi"
+
+change_name_directory_failed = "Đổi tên thư mục thất bại"
+change_name_file_failed = "Đổi tên tập tin thất bại"
+
+change_chmod_directory_failed = "Phân quyền thư mục thất bại"
+change_chmod_file_failed = "Phân quyền tập tin thất bại"
+
+change_info_directory_success = "Thay đổi thông tin thư mục thành công"
+change_info_file_success = "Thay đổi thông tin tập tin thành công"
+
+change_chmod_action_failed = "Phân quyền thất bại"
+change_chmod_action_success = "Phân quyền thành công"
+
+config_is_init = "Khởi tạo cấu hình: <strong>{$1}</strong>, <strong>{$2}</strong>"
+config_is_create_error = "Tạo cấu hình thất bại, hãy thử lại"
+config_is_error_of_set_default = "Cấu hình bị lỗi đã được đưa về mặc định: <strong>{$1}</strong>, <strong>{$2}</strong>"
+config_is_update_of_set_default = "Cấu hình cập nhật đã được đưa về mặc định: <strong>{$1}</strong>, <strong>{$2}</strong>"
+
+dialog_submit_reset = "Làm lại"
+
+directory_not_exists = "Thư mục không tồn tại"
+directory_copy_not_exists = "Thư mục sao chép không tồn tại"
+
+directory_zip_not_exists = "Đường dẫn nén không tồn tại "
+
+directory_detail_name = "Tên:"
+directory_detail_size = "Kích thước:"
+directory_detail_chmod = "Phân quyền:"
+
+directory_edit_detail_name = "Tên thư mục"
+directory_edit_detail_chmod = "Phân quyền thư mục"
+directory_edit_detail_input_name = "Nhập tên thư mục"
+directory_edit_detail_input_chmod = "Nhập phân quyền thư mục"
+directory_edit_detail_submit = "Thay đổi"
+
+directory_copy_path_to = "Đường dẫn sao chép đến"
+directory_copy_delete = "Xóa thư mục"
+directory_copy_select = "Lựa chọn"
+directory_copy_input_path_to = "Nhập đường dẫn"
+directory_copy_submit = "Sao chép"
+
+directory_delete_confirm = "Xác nhận"
+directory_delete_message_begin = "Bạn có thực sự muốn xóa thư mục"
+directory_delete_message_end = "này không?"
+directory_delete_submit = "Xóa"
+
+directory_zip_path_save = "Đường dẫn lưu tập tin"
+directory_zip_filename = "Tên tập tin"
+directory_zip_input_path_save = "Nhập đường dẫn lưư tập tin"
+directory_zip_input_filename = "Nhập tên tập tin"
+directory_zip_select = "Lựa chọn"
+directory_zip_override_file = "Ghi đè tập tin nén"
+directory_zip_delete_directory = "Xóa thư mục"
+directory_zip_submit = "Nén"
+
+delete_directory_failed = "Xóa thư mục thất bại"
+delete_directory_success = "Xóa thư mục thành công"
+delete_file_failed = "Xóa tập tin thất bại"
+delete_file_success = "Xóa tập tin thành công"
+
+delete_action_failed = "Xóa thất bại"
+delete_action_success = "Xóa thành công"
+
+dialog_title = "Dialog title"
+dialog_close = "Đóng"
+
+empty_directory = "Trống"
+
+error_connection = "Lỗi kết nối"
+error_connection_timeout = "Lỗi kết nối hết hạn"
+error_connection_parser = "Lỗi phân tích dữ liệu: "
+error_connection_status_404 = "Lỗi không tìm thấy trang"
+error_connection_status_500 = "Lỗi máy chủ"
+error_connection_status_503 = "Lỗi dịch vụ không sẵn sàng"
+error_connection_abort = "Lỗi kết nối bị bỏ qua"
+
+file_not_exists = "Tập tin không tồn tại"
+file_copy_not_exists = "Tập tin sao chép không tồn tại"
+
+file_detail_name = "Tên:"
+file_detail_size = "Kích thước:"
+file_detail_chmod = "Phân quyền:"
+file_detail_format = "Định dạng:"
+file_detail_resolution = "Độ phân giải:"
+
+file_edit_detail_name = "Tên tập tin"
+file_edit_detail_chmod = "Phân quyền tập tin"
+file_edit_detail_input_name = "Nhập tên tập tin"
+file_edit_detail_input_chmod = "Nhập phân quyền tập tin"
+file_edit_detail_submit = "Thay đổi"
+
+file_edit_text_loading = "Đang tải nội dung"
+file_edit_text_content = "Văn bản"
+file_edit_text_submit = "Lưu"
+file_edit_text_submit_check = "Lưu và kiểm tra"
+file_edit_text_error_not_receiver_content = "Lấy nội dung thất bại"
+file_edit_text_save_failed = "Lưu tập tin thất bại"
+file_edit_text_save_success = "Lưu tập tin thành công"
+file_edit_text_not_check_syntax = ". Không thể kiểm tra lỗi"
+file_edit_text_not_error_syntax = ". Không có lỗi"
+
+file_extract_path = "Đường dẫn giải nén"
+file_extract_delete = "Xóa tập tin nén"
+file_extract_select = "Lựa chọn"
+file_extract_input_path = "Nhập đường dẫn giải nén"
+file_extract_submit = "Giải nén"
+file_extract_error_path_not_exists = "Đường dẫn giải nén không tồn tại"
+file_extract_failed = "Giải nén thất bại"
+file_extract_success = "Giải nén thành công"
+
+file_copy_path_to = "Đường dẫn sao chép đến"
+file_copy_delete = "Xóa tập tin"
+file_copy_select = "Lựa chọn"
+file_copy_input_path_to = "Nhập đường dẫn"
+file_copy_submit = "Sao chép"
+
+file_delete_confirm = "Xác nhận"
+file_delete_message_begin = "Bạn có thực sự muốn xóa tập tin"
+file_delete_message_end = "này không?"
+file_delete_submit = "Xóa"
+
+input_file_list_empty = "Không có nhiệm vụ"
+input_file_list_message_ready = "Sẵn sàng"
+
+input_link_list_empty = "Không có nhiệm vụ"
+input_link_list_address = "Địa chỉ"
+input_link_list_input_address = "http://"
+input_link_list_message_ready = "Sẵn sàng"
+input_link_list_message_wait = "Chưa nhập địa chỉ"
+input_link_list_message_address_wrong = "Địa chỉ không hợp lệ"
+
+loading = "Đang tải"
+load_image_failed = "Tải ảnh thất bại"
+
+login = "Đăng nhập"
+login_failed = "Đăng nhập thất bại"
+login_success = "Đăng nhập thành công"
+
+method_not_support = "Phương thức không được hỗ trợ"
+
+navigator_option_setting_username = "Tên tài khoản"
+navigator_option_setting_input_username = "Nhập tên tài khoản nếu muốn đổi"
+navigator_option_setting_password_old = "Mật khẩu cũ"
+navigator_option_setting_input_password_old = "Nhập mật khẩu cũ nếu muốn đổi"
+navigator_option_setting_password_new = "Mật khẩu mới"
+navigator_option_setting_input_password_new = "Nhập mật khẩu mới nếu muốn đổi"
+navigator_option_setting_paging_list_file = "Phân trang danh sách tập tin"
+navigator_option_setting_input_paging_list_file = " Nhập phân trang danh sách tập tin"
+navigator_option_setting_paging_edit_text = "Phân trang sửa văn bản"
+navigator_option_setting_input_paging_edit_text = "Nhập phân trang sửa văn bản"
+navigator_option_setting_submit = "Lưu cài đặt"
+navigator_option_setting_failed = "Lưu cài đặt thất bại"
+navigator_option_setting_success = "Lưu cài đặt thành công"
+
+navigator_option_exit_confirm = "Xác nhận"
+navigator_option_exit_message = "Bạn có thực sự muốn thoát với lựa chọn bên dưới không?"
+navigator_option_exit_select = "Lựa chọn"
+navigator_option_exit_select_application = "Thoát ứng dụng"
+navigator_option_exit_select_device = "Thoát trên các thiết bị khác"
+navigator_option_exit_submit = "Thoát"
+navigator_option_exit_device_failed = "Thoát trên thiết bị khác thất bại"
+navigator_option_exit_device_success = "Thoát trên thiết bị khác thành công"
+navigator_option_exit_failed = "Thoát thất bại"
+navigator_option_exit_success = "Thoát thành công"
+
+navigator_file_create_name = "Tên"
+navigator_file_create_input_name = "Nhập tên"
+navigator_file_create_select = "Lựa chọn"
+navigator_file_create_select_directory = "Thư mục"
+navigator_file_create_select_file = "Tập tin"
+navigator_file_create_submit = "Tạo"
+
+navigator_file_upload_submit_add = "Thêm"
+navigator_file_upload_submit_start = "Tải lên"
+navigator_file_upload_submit_cancel = "Hủy bỏ"
+navigator_file_upload_message_start = "Bắt đầu tải lên"
+navigator_file_upload_message_upload = "Đang tải lên: "
+navigator_file_upload_error_size = "Kích thước tập tin quá lớn"
+navigator_file_upload_error_directory_exists = "Tập tin tồn tại ở dạng thư mục"
+navigator_file_upload_error_file_exists = "Tập tin đã tồn tại"
+navigator_file_upload_failed = "Tải lên tập tin thất bại"
+navigator_file_upload_success = " Tải lên tập tin thành công"
+
+navigator_file_import_message_start = "Đang nhập khẩu"
+navigator_file_import_error_address_wrong = "Địa chỉ không hợp lệ"
+navigator_file_import_error_directory_exists = "Tập tin tồn tại ở dạng thư mục"
+navigator_file_import_error_file_exists = "Tập tin đã tồn tại"
+navigator_file_import_failed = "Nhập khẩu thất bại"
+navigator_file_import_success = "Nhập khẩu thành công: {$1}"
+
+name_exists_navigator_file_create = "Tên đã tồn tại"
+
+name_directory_exists_or_is_file = "Tên thư mục đã tồn tại hoặc nó là một tập tin"
+name_file_exists_or_is_directory = "Tên tập tin đã tồn tại hoặc nó là một thư mục"
+
+name_exists_is_directory_zip = "Tên tập tin đã tồn tại ở dạng thư mục"
+name_exists_zip = "Tên tập tin đã tồn tại"
+
+not_has_change = "Không có gì thay đổi"
+
+not_file_select_action = "Chưa có mục nào được chọn"
+not_select_action_list_file = "Chưa có mục nào được chọn"
+
+not_wrong_length_username_navigator_option_setting = "Tên tài khoản phải lớn hơn hoặc bằng 5 kí tự"
+not_wrong_username_old_navigator_option_setting = "Tên tài khoản phải khác tài khoản hiện tại"
+not_input_password_new_navigator_option_setting = "Chưa nhập mật khẩu mới để thay đổi"
+not_wrong_password_old_navigator_option_setting = "Mật khẩu cũ phải khác mật khẩu mới"
+not_wrong_password_current_navigator_option_setting = "Mật khẩu cũ không đúng"
+not_wrong_length_password_navigator_option_setting = "Mật khẩu mới phải lớn hơn hoặc bằng 5 kí tự"
+
+not_select_navigator_option_exit = "Không có lựa chọn"
+
+not_input_name_navigator_file_create = "Chưa nhập tên"
+not_select_type_navigator_file_create = "Chưa chọn tạo thư mục hay tập tin"
+
+not_files_select_navigator_file_upload = "Chưa có nhiệm vụ nào"
+not_file_select_navigator_file_upload = "Chưa chọn tập tin"
+
+not_links_input_navigator_file_import = "Chưa có nhiệm vụ nào"
+not_input_address_navigator_file_import = "Chưa nhập địa chỉ"
+not_input_name_navigator_file_import = "Chưa nhập tên tập tin"
+
+not_copy_directory_to_it = "Không thể sao chép đến thư mục chính nó"
+not_copy_file_to_directory_container_it = "Không thể sao chép đến thư mục chứa nó"
+
+not_input_username = "Chưa nhập tên đăng nhập"
+not_input_password = "Chưa nhập mật khẩu"
+
+not_input_name_directory = "Chưa nhập tên thư mục"
+not_input_name_file = "Chưa nhập tên tập tin"
+not_input_chmod_directory = "Chưa nhập phân quyền thư mục"
+not_input_chmod_file = "Chưa nhập phân quyền tập tin"
+
+not_input_path_extract = "Chưa nhập đường dẫn giải nén"
+not_input_path_copy_to = "Chưa nhập đường dẫn sao chép đến"
+
+not_input_path_save_file_zip = "Chưa nhập đường dẫn lưu tập tin"
+not_input_filename_zip = "Chưa nhập tên tập tin"
+
+path_not_exists = "Đường dẫn không tồn tại"
+path_copy_to_not_exists = "Đường dẫn sao chép đến không tồn tại"
+path_new_right_other_path_old = "Đường dẫn mới phải khác đường dẫn hiện tại"
+path_directory_not_exists = "Đường dẫn thư mục không tồn tại "
+path_file_not_exists = "Đường dẫn tập tin không tồn tại"
+path_save_not_exists_zip = "Đường dẫn lưu không tồn tại"
+
+prefix_title_directory_dialog = " thư mục"
+prefix_title_file_dialog = " tập tin"
+
+process_login = "Đang đăng nhập"
+process_navigator_option_setting = "Đang lưu cài đặt"
+process_navigator_option_exit = "Đang thoát"
+process_navigator_file_create = "Đang tạo"
+process_navigator_file_upload = "Đang tải lên tập tin"
+process_change_info_directory = "Đang thay đổi thông tin thư mục"
+process_change_info_file = "Đang thay đổi thông tin tập tin"
+process_change_content_file = "Đang lưu tập tin"
+process_extract_file = "Đang giải nén tập tin"
+process_copy_directory = "Đang sao chép thư mục"
+process_copy_file = "Đang sao chép tập tin"
+process_delete_directory = "Đang xóa thư mục"
+process_delete_file = "Đang xóa tập tin"
+process_zip_directory = "Đang nén thư mục"
+process_action_copy = "Đang sao chép"
+process_action_chmod = "Đang phân quyền"
+process_action_archive = "Đang nén"
+process_action_delete = "Đang xóa"
+
+unknown = "Không rõ"
+username_or_password_wrong = "Tên đăng nhập hoặc mật khẩu sai"
+
+you_is_not_login = "Bạn chưa đăng nhập"
+you_is_status_login = "Bạn đang ở trạng thái đăng nhập"
+you_do_install_file_manager_on_document_root = "Bạn đang cài đặt IManager trên thư mục gốc hãy chuyển vào một thư mục"
+
+zip_directory_failed = "Nén thư mục thất bại"
+zip_directory_success = "Nén thư mục thành công"
+
+zip_action_failed = "Nén thất bại"
+zip_action_success = "Nén thành công"

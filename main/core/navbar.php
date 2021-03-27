@@ -20,9 +20,6 @@
 <li class="nav-item">
 <a class="nav-link  text-white  font-weight-bold" href="quan-li"> Admin</a>
 </li>
-<li class="nav-item">
-<a class="nav-link  text-white  font-weight-bold" href="them-tien.php"> Thêm tiền</a>
-</li>
 <?php } ?>
 <li class="nav-item">
 <a class="nav-link  text-white  font-weight-bold" href="thong-tin-tai-khoan"> Thông tin tài khoản</a>

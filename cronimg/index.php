@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <?php
 error_reporting(E_ALL);
-set_time_limit(10);
+set_time_limit(1000);
 include_once("../config.php");
 require_once "../support/PostService.php";
 $timer = date("d-m-Y",time());

@@ -22,4 +22,5 @@
             "hideMethod": "slideUp"
         }
     }
+}
 </script>

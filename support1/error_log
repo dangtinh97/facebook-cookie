@@ -1,0 +1,2 @@
+[06-Mar-2021 13:06:40 Asia/Ho_Chi_Minh] PHP Warning:  require_once(/home/autotuon2/public_html/support/support/config.php): failed to open stream: No such file or directory in /home/autotuon2/public_html/support/HelperImage.php on line 3
+[06-Mar-2021 13:06:40 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '/home/autotuon2/public_html/support/support/config.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/autotuon2/public_html/support/HelperImage.php on line 3

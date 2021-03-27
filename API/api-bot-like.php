@@ -1,7 +1,7 @@
 <?php
     session_start();
     require_once("../config.php");
-    if(empty($_POST['cookie']) || empty($_POST['camxuc']) || empty($_POST['mode_bot']) || empty($_POST['limitpost']) || empty($_POST['time_start']) || empty($_POST['time_end']) || empty($_POST['time']) || empty($_POST['ghichu'])){
+    if(empty($_POST['cookie']) || empty($_POST['camxuc']) || empty($_POST['limitpost']) || empty($_POST['time_start']) || empty($_POST['time_end']) || empty($_POST['time']) || empty($_POST['ghichu'])){
         $JSON = array(
             "title" => "Yêu cầu thông tin",
             "text" => "Bạn chưa điền đầy đủ thông tin",
@@ -11,13 +11,12 @@
     }
 	$cookie = mysqli_real_escape_string($kunloc,$_POST['cookie']);
 	$camxuc = addslashes(mysqli_real_escape_string($kunloc,$_POST['camxuc']));
-    $mode_bot = addslashes(mysqli_real_escape_string($kunloc,$_POST['mode_bot']));
     $limitpost = intval($_POST['limitpost']);
 	$time_start = intval($_POST['time_start']);
 	$time_end = intval($_POST['time_end']);
 	$times = intval($_POST['time']);
     $ghichu = addslashes(mysqli_real_escape_string($kunloc,$_POST['ghichu']));
-    if(strlen($cookie) < 6 || strlen($cookie) > 455 || strlen($ghichu) < 6 || strlen($ghichu) > 255){
+    if(strlen($cookie) < 6 || strlen($cookie) > 1000 || strlen($ghichu) < 6 || strlen($ghichu) > 255){
         $JSON = array(
             "title" => "Chưa hợp lệ, Tối đa số kí tự",
             "text" => "Cookie hoặc ghi chú của bạn phải từ 6 > 255 kí tự trở lên để tiến hành cài đặt",
@@ -52,12 +51,7 @@
             );
         die(json_encode($JSON, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }else{
-        $SET = mysqli_query($kunloc,"
-        INSERT INTO 
-        `botlike`(`username`, `cookie`, `idfb`, `name`, `camxuc`, `mode_bot`, `limitpost`, `time_start`, `time_end`, `date`, `ghichu`,`mode`, `trangthai`) 
-        VALUES 
-        ('$username','$cookie','$idfb_cookie','$name_cookie','$camxuc','$mode_bot','$limitpost','$time_start','$time_end','$timebot','$ghichu','bat','live')
-        ");
+        $SET = mysqli_query($kunloc,"INSERT INTO botlike SET username = '$username', cookie = '$cookie', idfb = '$idfb_cookie', name = '$name_cookie', camxuc = '$camxuc', limitpost = '$limitpost', time_start = '$time_start', time_end = '$time_end',`date` = '$timebot', ghichu = '$ghichu', trangthai = 'bat'");
         if($SET){
             $JSON = array(
                 "title" => "Thêm Liike Thành Công!",
@@ -75,5 +69,5 @@
                 );
             die(json_encode($JSON, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }
-    }
+}
 ?>

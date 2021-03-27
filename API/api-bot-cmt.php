@@ -1,7 +1,7 @@
 <?php
     session_start();
     require_once("../config.php");
-    if(empty($_POST['cookie']) || empty($_POST['noidung']) || empty($_POST['mode_bot']) || empty($_POST['limitpost']) || empty($_POST['time_start']) || empty($_POST['time_end']) || empty($_POST['time']) || empty($_POST['ghichu'])){
+    if(empty($_POST['cookie']) || empty($_POST['noidung']) || empty($_POST['limitpost']) || empty($_POST['time_start']) || empty($_POST['time_end']) || empty($_POST['time']) || empty($_POST['ghichu'])){
         $JSON = array(
             "title" => "Yêu cầu thông tin",
             "text" => "Bạn chưa điền đầy đủ thông tin",
@@ -11,21 +11,11 @@
     }
 	$cookie = mysqli_real_escape_string($kunloc,$_POST['cookie']);
 	$noidung = mysqli_real_escape_string($kunloc,$_POST['noidung']);
-    $mode_bot = addslashes(mysqli_real_escape_string($kunloc,$_POST['mode_bot']));
-    
     $limitpost = intval($_POST['limitpost']);
 	$time_start = intval($_POST['time_start']);
 	$time_end = intval($_POST['time_end']);
 	$times = intval($_POST['time']);
     $ghichu = addslashes(mysqli_real_escape_string($kunloc,$_POST['ghichu']));
-   /* if(strlen($cookie) < 6 || strlen($cookie) > 455 || strlen($ghichu) < 6 || strlen($ghichu) > 255 || strlen($noidung) < 1 || strlen($noidung) > 255){
-        $JSON = array(
-            "title" => "Chưa hợp lệ, Tối đa số kí tự",
-            "text" => "Cookie hoặc ghi chú của bạn phải từ 6 > 255 kí tự trở lên để tiến hành cài đặt",
-            "type" => "error",
-        );
-        die(json_encode($JSON, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-    }*/
     #KIỂM TRA COOKIE
     $link_fb = get_cookie('https://mbasic.facebook.com/profile.php', $cookie);
     preg_match('#<title>(.+?)</title>#is', $link_fb, $name_user);
@@ -53,7 +43,7 @@
             );
         die(json_encode($JSON, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }else{
-        $SET = mysqli_query($kunloc,"INSERT INTO botcmt SET username = '$username', cookie = '$cookie', idfb = '$idfb_cookie',mode_bot='$mode_bot', `name` = '$name_cookie', noidung = '$noidung', limitpost = '$limitpost', time_start = '$time_start', time_end = '$time_end',`date` = '$timebot', ghichu = '$ghichu',mode = 'bat', trangthai = 'live'");
+        $SET = mysqli_query($kunloc,"INSERT INTO botcmt SET username = '$username', cookie = '$cookie', idfb = '$idfb_cookie', name = '$name_cookie', noidung = '$noidung', limitpost = '$limitpost', time_start = '$time_start', time_end = '$time_end',`date` = '$timebot', ghichu = '$ghichu', trangthai = 'bat'");
         if($SET){
             $JSON = array(
                 "title" => "Thêm CMT Thành Công!",
@@ -73,6 +63,5 @@
         }
         
     }
-
 
 ?>
