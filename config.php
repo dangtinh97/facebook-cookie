@@ -2,10 +2,10 @@
 error_reporting(0);
 ob_start();
 date_default_timezone_set('Asia/Ho_Chi_Minh');
-$db_username = "autotuon_botcookie";
-$db_password = "Duongtuanh005"; 
+$db_username = "root";
+$db_password = "";
 $host_name = "localhost";
-$db_name = 'autotuon_botcookie';
+$db_name = 'cookie';
 $kunloc = new mysqli($host_name, $db_username, $db_password, $db_name);
 mysqli_set_charset($kunloc, 'UTF8');
 if ($kunloc->connect_error) 

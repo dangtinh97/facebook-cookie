@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL','http://'.$_SERVER['HTTP_HOST'].'/facebook/support');
+define('BASE_URL','http://'.$_SERVER['HTTP_HOST'].'/support');
 define('URL_API_IMAGE','http://ghepanhpro.online/api/make/index/pass/abc0490/id/');
 define('DOCUMENT_ROOT',$_SERVER['DOCUMENT_ROOT']);
 function rediect($host=''){

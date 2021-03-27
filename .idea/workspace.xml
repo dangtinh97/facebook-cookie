@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0168d0ff-7e28-4ee8-89fa-ba7030a233e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/api-bot-cmt.php" beforeDir="false" afterPath="$PROJECT_DIR$/API/api-bot-cmt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/api-bot-like.php" beforeDir="false" afterPath="$PROJECT_DIR$/API/api-bot-like.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/setting-bot-cmt.php" beforeDir="false" afterPath="$PROJECT_DIR$/API/setting-bot-cmt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/setting-bot-like.php" beforeDir="false" afterPath="$PROJECT_DIR$/API/setting-bot-like.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cronimg/imgbot/log.png" beforeDir="false" afterPath="$PROJECT_DIR$/cronimg/imgbot/log.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cronimg/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/cronimg/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cronimg/logcmt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cronimg/logcmt.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/core/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/main/core/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/main/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/Controller/Api/CronGroupController.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/Controller/Api/CronGroupController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/Controller/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/Controller/AuthController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/Controller/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/Controller/UserController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/FacebookHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/FacebookHelper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/HelperImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/HelperImage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/PostService.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/PostService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/StrHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/StrHelper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/View/setting-group.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/View/setting-group.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/support/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/support/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/support/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/trang-chu.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/trang-chu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +55,7 @@
       <workItem from="1616256405738" duration="1763000" />
       <workItem from="1616596872194" duration="2094000" />
       <workItem from="1616685328164" duration="514000" />
-      <workItem from="1616824436975" duration="27000" />
+      <workItem from="1616824436975" duration="478000" />
     </task>
     <servers />
   </component>
